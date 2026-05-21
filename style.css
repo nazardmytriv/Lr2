@@ -18,6 +18,10 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.05);
 }
 
+aside.left-side, main.right-side {
+    display: block;
+}
+
 .left-side {
     width: 25%;
     background-color: #3a5e90;
